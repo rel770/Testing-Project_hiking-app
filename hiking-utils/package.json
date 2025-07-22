@@ -1,0 +1,12 @@
+{
+  "name": "hiking-utils",
+  "version": "1.0.0",
+  "main": "distanceUtils.js",
+  "scripts": {
+    "test": "node --test *.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
