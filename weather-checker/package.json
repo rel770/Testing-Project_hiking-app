@@ -1,0 +1,21 @@
+{
+  "name": "weather-checker",
+  "version": "1.0.0",
+  "description": "Weather safety checker for hiking",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test *.test.js"
+  },
+  "keywords": [
+    "hiking",
+    "weather",
+    "safety"
+  ],
+  "author": "Ariel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
